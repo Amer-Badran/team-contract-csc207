@@ -72,4 +72,5 @@ Julia Znaczko,
 Amer Badran,
 Amirparsa Farajiaraghi,
 Chun-Hao Liao,
+Evelyn Jin,
 Arina Sabirzanova
