@@ -68,8 +68,8 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Julia Znaczko
-Amer Badran
-Amirparsa Farajiaraghi
-Chun-Hao Liao
+Julia Znaczko,
+Amer Badran,
+Amirparsa Farajiaraghi,
+Chun-Hao Liao,
 Arina Sabirzanova
